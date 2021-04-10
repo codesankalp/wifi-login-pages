@@ -1,0 +1,8 @@
+{
+    "all": "log/all.log",
+    "error": "log/error.log",
+    "warn": "log/warn.log",
+    "info": "log/info.log",
+    "http": "log/http.log",
+    "debug": "log/debug.log"
+}

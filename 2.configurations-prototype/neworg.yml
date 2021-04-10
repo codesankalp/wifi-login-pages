@@ -1,0 +1,15 @@
+# This file will consist those pairs which are different from default.yml.
+---
+name: "new organisation"
+slug: "neworg"
+
+settings:
+  mobile_phone_verification: true
+
+server:
+  host: "http://owradius.com"
+
+client:
+  title: "NewORG WiFi Login"
+
+  auto_login: False
