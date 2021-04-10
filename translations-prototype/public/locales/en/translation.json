@@ -1,0 +1,34 @@
+{
+    "component": {
+        "login_form": {
+            "social_login": {
+                "facebook": "Login with Facebook",
+                "google": "Login with google",
+                "twitter": "Login with Twitter"
+            },
+            "input_fields": {
+                "email": {
+                    "placeholder": "email address",
+                    "label": "email",
+                    "pattern_description": ""
+                },
+                "password": {
+                    "placeholder": "password",
+                    "label": "password",
+                    "pattern_description": "password must be a minimum of 6 characters"
+                }
+            },
+            "additional_info_text": "By logging in, you accept the {terms_and_conditions} and the {privacy_policy} of this WiFi service. ",
+            "buttons": {
+                "login": "Login",
+                "register": {
+                    "label": "Not registered yet?",
+                    "text": "Sign up"
+                }
+            },
+            "links": {
+                "forget_password": "Forgot your password?"
+            }
+        }
+    }
+}
